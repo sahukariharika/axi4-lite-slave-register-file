@@ -1,7 +1,7 @@
 
 module top;
 integer a=1;
-real r=1;
+real r=x;
 time t;
 r
 initial begin
