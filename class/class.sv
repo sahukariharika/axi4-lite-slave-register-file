@@ -41,26 +41,8 @@ initial begin
 end
 
 endmodule
-/*
-##### default values of the varibales###########  
-# 	 a=xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-# 	 r=00000000000000000000000000000000
-# 	 t=xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-# 	 rt=00000000000000000000000000000000
-# 	 b=x
-# 	 c=xxx
-# 	 w=z
-# 	 time =0
-##### after assigning  values of the varibales###########  
-# 	 a=100
-# 	 r=202.250000
-# 	 t=11
-# 	 time =11000
-# 	 rt=10.550000
-# 	 realtime =10550
-# 	 b=1
-# 	 c=3
-# 	 w=z
 */=====================================================
 	// after pull push
 	// ===============================
+	//
+//////// all should commented 
