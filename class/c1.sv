@@ -1,6 +1,6 @@
 
 module top;
-integer a=1;
+integer a=0;
 real r=x;
 time t;
 r
